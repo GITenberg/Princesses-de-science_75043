@@ -1,0 +1,27 @@
+_repo: Princesses-de-science_75043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yver, Colette
+    gutenberg_agent_id: '57792'
+    url: http://www.gutenberg.org/2009/agents/57792
+description: ''
+gutenberg_issued: '2025-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75043'
+language: fr
+pgterms:marc904: https://archive.org/details/princessesdescie00yveruoft
+pgterms:marc905: 20231215231324yver
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bCalmann-Lévy, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Princesses de science
+url: http://www.gutenberg.org/ebooks/75043
